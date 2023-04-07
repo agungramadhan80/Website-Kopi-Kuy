@@ -130,6 +130,7 @@ header .kiri {
 
 header .kanan {
    width: 50%;
+   margin-right: 50px;
 }
 
 header .kiri h1 {
@@ -348,6 +349,7 @@ footer p {
    header .kanan {
       width: 100%;
       margin-top: 20px;
+      margin-right: auto;
    }
 
    .best-seller .produk {
@@ -370,4 +372,5 @@ footer p {
    .mode-p {
       display: flex;
    }
+
 }
